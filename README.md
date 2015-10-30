@@ -3,9 +3,9 @@ R code for "Variable reproducibility in genome-scale public data: A case study u
 
 ## How to use
 This repository contains R scripts (.R), various tab-delimited text files (.txt and .bed) as well as R binary data (.RData). It DOES NOT contains .bed and .bam files downloaded from ENCODE websites. Howerver, instruction to download those is explained in comments in various R scripts.
-s0_sessionInfo.R contains version of R and packages that were used through the analysis.
-sa_*.R scripts are scripts to generate the various .RData files from ENCODE .bed and .bam files.
-sp_*.R scripts are scripts used to generate the various figure of the article using .RData file. One does not need to download ENCODE .bed and .bam files to generate the plots, but only needs the RData and .txt files. The only exception to this is sp5_CorHeatmapByTF_sf4.R, that require a *heavy* RData object generated for another project, missing in this repository.
+* s0_sessionInfo.R contains version of R and packages that were used through the analysis.
+* sa_*.R scripts are scripts to generate the various .RData files from ENCODE .bed and .bam files.
+* sp_*.R scripts are scripts used to generate the various figure of the article using .RData file. One does not need to download ENCODE .bed and .bam files to generate the plots, but only needs the RData and .txt files. The only exception to this is sp5_CorHeatmapByTF_sf4.R, that require a *heavy* RData object generated for another project, missing in this repository.
 
 ## What this repository is for
 * in depth details on how the analyses described in the article were done
