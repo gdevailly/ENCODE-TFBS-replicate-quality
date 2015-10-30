@@ -1,0 +1,2 @@
+# Avoid scanning of heavy annotation .bed file
+*.bed binary
