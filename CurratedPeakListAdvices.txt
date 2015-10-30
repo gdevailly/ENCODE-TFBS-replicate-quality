@@ -1,0 +1,58 @@
+Condition	Adviced peak list
+GM12878_None_p300	Every peaks found in 2 ver 3 samples
+K562_None_CEBPB	Intersect peak lists
+K562_None_GATA2	Intersect peak lists
+H1-hESC_None_CHD1	?
+H1-hESC_None_c-Myc	SydhH1hescCmycIggrab
+K562_None_HDAC2	HaibK562Hdac2sc6296V0416102UniPk
+K562_None_p300	SydhK562P300Iggrab
+K562_None_Pol2	Merge all 3 but SydhK562Pol2Iggmus
+K562_None_Pol2_phosphoS2	SydhK562Pol2s2
+H1-hESC_None_JunD	Intersect peak lists
+HepG2_None_JunD	Intersect peak lists
+HepG2_None_NRSF	Intersect peak lists
+HepG2_None_Pol2	Merge peak lists
+HUVEC_None_Pol2	Merge peak lists
+K562_None_Rad21	Merge peak lists
+K562_None_TBLR1	Intersect peak lists
+MCF-7_None_GATA3	Merge peak lists
+SK-N-SH_None_NRSF	HaibSknshNrsfV0416101
+K562_None_YY1	Merge peak lists
+K562_None_ATF3	SydhK562Atf3
+GM12878_None_Pol2	Merge peak lists
+GM12878_None_YY1	Merge peak lists
+HeLa-S3_None_c-Myc	Merge peak lists
+HeLa-S3_None_TCF7L2	Merge peak lists
+HepG2_None_BHLHE40	Merge peak lists
+HepG2_None_CEBPB	Merge peak lists
+HepG2_None_p300	Merge peak lists
+K562_None_c-Myc	Merge peak lists
+K562_None_COREST	Merge peak lists
+K562_None_ZNF274	Merge peak lists
+H1-hESC_None_SIN3A	Merge peak lists
+GM12878_None_PAX5	Merge peak lists
+A549_EtOH_0.02pct_USF-1	Merge peak lists
+A549_None_CTCF	Merge peak lists
+GM12878_None_CTCF	Merge peak lists
+GM12878_None_EBF1	Merge peak lists
+GM12878_None_Rad21	Merge peak lists
+GM12891_None_Pol2	Merge peak lists
+GM12892_None_Pol2	Merge peak lists
+H1-hESC_None_CTCF	Merge peak lists
+H1-hESC_None_Pol2	Merge peak lists
+H1-hESC_None_Rad21	Merge peak lists
+HeLa-S3_None_CTCF	Merge peak lists
+HeLa-S3_None_Pol2	Merge peak lists
+HepG2_None_CTCF	Merge peak lists
+HepG2_None_FOXA1	Merge peak lists
+HepG2_None_MafK	Merge peak lists
+HepG2_None_Rad21	Merge peak lists
+HMEC_None_CTCF	Merge peak lists
+HUVEC_None_CTCF	Merge peak lists
+K562_None_CTCF	Merge peak lists
+K562_None_E2F6	Merge peak lists
+K562_None_Max	Merge peak lists
+MCF-7_None_CTCF	Merge peak lists
+NHEK_None_CTCF	Merge peak lists
+NHLF_None_CTCF	Merge peak lists
+SK-N-SH_RA_None_CTCF	Merge peak lists
