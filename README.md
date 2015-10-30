@@ -17,5 +17,4 @@ sp_*.R scripts are scripts used to generate the various figure of the article us
 * It is not aimed to be further updated or improved as it should reflect analyses describe in the article. Exception to this are correction of typos, errors and upload of any missing file.
 
 ## Contact
-Twitter: @NATDdev
 Mail: guillaume.devailly _at_ roslin.ed.ac.uk
