@@ -1,5 +1,5 @@
 # ENCODE-TFBS-replicate-quality
-R code for "Variable reproducibility in genome-scale public data: A case study using ENCODE ChIP sequencing resource" article, submited to FEBS letter, by Guillaume Devailly, Anna Mantsoki, Tom Michoel and Anagha Joshi.
+R code for "Variable reproducibility in genome-scale public data: A case study using ENCODE ChIP sequencing resource" article, FEBS letter, by Guillaume Devailly, Anna Mantsoki, Tom Michoel and Anagha Joshi. [Link to the article](http://www.sciencedirect.com/science/article/pii/S0014579315010315)
 
 ## How to use
 This repository contains R scripts (.R), various tab-delimited text files (.txt and .bed) as well as R binary data (.RData). It DOES NOT contains .bed and .bam files downloaded from ENCODE websites. Howerver, instruction to download those is explained in comments in various R scripts.
